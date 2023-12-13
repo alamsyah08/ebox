@@ -62,7 +62,8 @@
     margin-left: 20px;
 }
 .fitur h4, .fiturRegis h4{
-    margin-left: 110px;
+    margin-left: 0px;
+    text-align: center;
 }
 .fiturApa{
     padding-top: 100px;
@@ -143,6 +144,10 @@ hr{
     align-self: center;
     border: none;
     border-radius: 10px;
+}
+
+.judul{
+    margin-left: 0 !important;
 }
 
 /* DEKTOP VERSION */
@@ -256,7 +261,7 @@ hr{
     }
 
     .fitur h4, .fiturRegis h4{
-        margin-left: 230px;
+        margin-left: 0px;
     }
     
 
